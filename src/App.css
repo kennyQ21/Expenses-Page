@@ -1,0 +1,40 @@
+body {
+  background-color: #9ed2ea; /* Aqua blue background for the body */
+}
+
+.Top-box {
+  max-width: 96%; /* Limiting the width of the box */
+  margin: 20px auto; /* Centering the box horizontally and adding vertical margin */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Adding a subtle shadow */
+}
+
+.first-item {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.fourth-item {
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+  margin-left: 1150px;
+}
+
+.dropdown-toggle::after {
+  margin-left: 5rem; /* Adjust the value as needed */
+}
+
+
+.button-margin {
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+
+.custom-modal-dialog {
+  max-width: 1100px; /* Adjust the width as needed */
+}
+
+
